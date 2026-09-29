@@ -1,0 +1,6 @@
+{
+  "name": "Petualangan Belajar SD",
+  "description": "Game edukasi petualangan interaktif anak SD kelas 1-6 dengan materi Matematika, Bahasa, dan Sains, sistem gamifikasi lencana & avatar, dashboard guru, dan mode offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
